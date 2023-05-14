@@ -4,7 +4,7 @@
   "description": "Test vercel deployments",
   "main": "server.js",
   "engines": {
-    "node": "12.22.12" 
+    "node": ">=12.22.12" 
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
